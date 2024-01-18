@@ -1,0 +1,10 @@
+fake-useragent==1.4.0
+pandas==2.0.3
+schedule==1.2.1
+selenium==4.16.0
+webdriver-manager==4.0.1
+Flask==3.0.0
+Flask-SocketIO==5.3.6
+openpyxl==3.0.9
+xlsxwriter==3.0.1
+
